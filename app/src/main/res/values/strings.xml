@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GoMoney App Challenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="team_image_icon">Team image icon</string>
+    <string name="timed">TIMED</string>
+    <string name="no_fixtures">No Matches</string>
+    <string name="retry">Retry</string>
+    <string name="competition">Competition</string>
+    <string name="today_s_matches">Today\'s Matches</string>
+</resources>

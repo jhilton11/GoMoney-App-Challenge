@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/todayMatchesFragment"
+        android:icon="@drawable/ic_action_match"
+        app:showAsAction="ifRoom"
+        android:title="@string/today_s_matches"/>
+    <item
+        android:id="@+id/competitionFragment"
+        android:icon="@drawable/ic_action_competition"
+        app:showAsAction="always"
+        android:title="@string/competition"/>
+</menu>
